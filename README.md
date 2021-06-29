@@ -1,6 +1,6 @@
 # AI_FOTO
 
-Hi all, Maureen and I created this machine learning project for one of the Stackable Certificates under NUS-ISS. The project aims to develop a self-organizing photo app using deep learning, supervised learning and signal processing technology. The app's interface is written using PySimpleGUI, and the code can be easily implemented on your computer. We train all the models, and details of the training process will not be discussed here. However, the weights of the model are attached to this repository.
+Hi all, this repository was created as a machine learning project for one of the Stackable Certificates under NUS-ISS. The project aims to develop a self-organizing photo app using deep learning, supervised learning and signal processing technology. The app's interface is written using PySimpleGUI, and the code can be easily implemented on your computer. We train all the models, and details of the training process will not be discussed here. However, the weights of the model are attached to this repository.
 
 The photo app aims to help users organize their inventory better and reduce problems that arise from digital clutter through facial recognition, emotional detection, blur detection and image category classification.
 
