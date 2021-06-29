@@ -24,9 +24,15 @@ Files :
 An H5 data file containing all the weights needed for emotion detection (Function 3).
 model_epoch_50_lr0_0001.h5
 
+Another H5 data file for function 4.
+MobileNetV2_8classes_model_v3.h5
+
 In the ZIP file Image_Folder, there are several test images that can be used to test our codes. 
 Image_Folder
 
-Another H5 data file for function 4.
-MobileNetV2_8classes_model_v3.h5
+The ZIP file pyimagesearch contains the library for blur detection using FFT.
+
+Below is an demo of how our interface looks like when codes are ran successfully.
+![image](https://user-images.githubusercontent.com/62549753/123818440-8f8aee00-d92b-11eb-9340-a3fa5874c469.png)
+
 
