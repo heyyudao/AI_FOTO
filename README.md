@@ -18,3 +18,10 @@ Once we have completed face detection, the image detected can be filtered out an
 Function 4: 
 The last feature for AI_Foto helps users automatically organize their memories into specific areas of "moments". They can select from 8 common types of interest and have their entire album sorted in the background. The eight categories are animals, architecture, art and culture, food and drinks, landscapes, racing competitions, sports and travel.
 We leveraged extracting features from a pre-trained model, MobileNetV3, and inserted a classifier on the top layer. 
+
+Files :
+An H5 data file containing all the weights needed for emotion detection (Function 3) 
+model_epoch_50_lr0_0001.h5
+
+In the ZIP file Image_Folder, there are several test images that can be used to test our codes. 
+Image_Folder
