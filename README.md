@@ -4,3 +4,4 @@ Hi all, this is a machine learning project created by Maureen and me for one of 
 
 The photo app helps users organize their inventory better and reduce problems that arise from digital clutter through auto facial recognition, emotional detection, blur detection and image category classification.
 
+
