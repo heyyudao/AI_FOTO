@@ -20,8 +20,13 @@ The last feature for AI_Foto helps users automatically organize their memories i
 We leveraged extracting features from a pre-trained model, MobileNetV3, and inserted a classifier on the top layer. 
 
 Files :
-An H5 data file containing all the weights needed for emotion detection (Function 3) 
+
+An H5 data file containing all the weights needed for emotion detection (Function 3).
 model_epoch_50_lr0_0001.h5
 
 In the ZIP file Image_Folder, there are several test images that can be used to test our codes. 
 Image_Folder
+
+Another H5 data file for function 4.
+MobileNetV2_8classes_model_v3.h5
+
